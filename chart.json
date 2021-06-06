@@ -1,0 +1,9 @@
+{
+        header: ["Name", "toll"],
+        rows: [
+          ["Uttar Pradesh", 1700000],
+          ["Maharashtra", 5800000],
+          ["Karnataka", 2700000],
+          ["Kerla", 2600000],
+          ["Tamil Nadu", 2200000],
+    ]}
